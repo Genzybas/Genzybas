@@ -16,9 +16,9 @@ I am a **B.Eng. Computer Engineering graduate** and **AI Systems Researcher** bu
 ---
 
 ### 🔬 Featured Research & Flagship Builds
-* 🛡️ **[SC-ARS (Smart Contract-Based Automated Response System)](https://github.com/genzybas)** — *Published Research & Prototype*  
+* 🛡️ **[SC-ARS (Smart Contract-Based Automated Response System)](https://github.com/Genzybas/SC-ARS_smart_contract_based_automated_response_system)** — *Published Research & Prototype*  
   An ML-driven autonomous security framework combining Random Forest anomaly detection with blockchain smart contracts to execute tamper-proof, real-time intrusion mitigation in IoT environments.
-* 🌐 **[Morlabs Protocols v2](https://github.com) & [Solana Wallet App](https://github.com/genzybas)**  
+* 🌐 **[Morlabs Protocols ](https://github.com/genzybas)**  
   Production decentralized application (dApp) interfaces and non-custodial Solana wallet architecture built with **Next.js, TypeScript, and Tailwind CSS**.
 * 🤖 **[JobSniper Bot](https://github.com/genzybas)**  
   An automated Python intelligence and alerting pipeline that parses, filters, and surfaces high-signal remote engineering opportunities in real time.
@@ -35,8 +35,9 @@ I am a **B.Eng. Computer Engineering graduate** and **AI Systems Researcher** bu
 
 ### 📫 Connect & Collaborate
 * **Email:** samuelbassey407@gmail.com
-* **LinkedIn:** [https://linkedin.com/in/samuel-bassey]
-* **Research & Publications:** [https://www.e3s-conferences.org/articles/e3sconf/abs/2026/53/e3sconf_ai-scities2026_03001/e3sconf_ai-scities2026_03001.html] or [https://www.researchgate.net/publication/412749519_Smart_Contract-Based_Automated_Response_System_for_IoT_Attacks_in_Web3_Ecosystems]
+* **LinkedIn:** https://linkedin.com/in/samuel-bassey
+* **Research & Publications:** [SC-ARS](https://www.e3s-conferences.org/articles/e3sconf/abs/2026/53/e3sconf_ai-scities2026_03001/e3sconf_ai-scities2026_03001.html) , [CROSS-CHAIN](https://www.researchgate.net/publication/412749519_Smart_Contract-Based_Automated_Response_System_for_IoT_Attacks_in_Web3_Ecosystems) ETC 
+  
 * **Open to:** Global Remote Software Engineering, AI Engineering, Web3/Systems Engineering, and Research Collaborations.
 
 
