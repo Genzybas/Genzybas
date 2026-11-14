@@ -8,6 +8,42 @@ For more of my projects and contributions, you can also check out my [previous G
 
 
 
+# Hi, I'm Samuel Bassey 👋
+### Computer Engineer | Intelligent Systems • Software • AI • Infrastructure | Researcher
+
+I am a **B.Eng. Computer Engineering graduate** and **AI Systems Researcher** building intelligent, autonomous, and decentralized software infrastructure. My work focuses on the intersection of **Machine Learning, Cybersecurity, Full-Stack Web Engineering, and Web3/Blockchain systems**.
+
+---
+
+### 🔬 Featured Research & Flagship Builds
+* 🛡️ **[SC-ARS (Smart Contract-Based Automated Response System)](https://github.com/genzybas)** — *Published Research & Prototype*  
+  An ML-driven autonomous security framework combining Random Forest anomaly detection with blockchain smart contracts to execute tamper-proof, real-time intrusion mitigation in IoT environments.
+* 🌐 **[Morlabs Protocols v2](https://github.com) & [Solana Wallet App](https://github.com/genzybas)**  
+  Production decentralized application (dApp) interfaces and non-custodial Solana wallet architecture built with **Next.js, TypeScript, and Tailwind CSS**.
+* 🤖 **[JobSniper Bot](https://github.com/genzybas)**  
+  An automated Python intelligence and alerting pipeline that parses, filters, and surfaces high-signal remote engineering opportunities in real time.
+
+---
+
+### 🛠️ Core Technical Stack
+* **Languages:** Python, TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
+* **Frontend & Backend:** Next.js, React, Node.js, Express, Tailwind CSS
+* **AI, Security & Web3:** Machine Learning (Scikit-Learn / Random Forest), Smart Contract Integration, Solana Web3, IoT Security, Intrusion Detection Systems
+* **Infrastructure & DevOps:** Linux, Git/GitHub, CI/CD Automation, Cisco Network Engineering, Enterprise IT Diagnostics
+
+---
+
+### 📫 Connect & Collaborate
+* **Email:** samuelbassey407@gmail.com
+* **LinkedIn:** [https://linkedin.com/in/samuel-bassey]
+* **Research & Publications:** [https://www.e3s-conferences.org/articles/e3sconf/abs/2026/53/e3sconf_ai-scities2026_03001/e3sconf_ai-scities2026_03001.html] or [https://www.researchgate.net/publication/412749519_Smart_Contract-Based_Automated_Response_System_for_IoT_Attacks_in_Web3_Ecosystems]
+* **Open to:** Global Remote Software Engineering, AI Engineering, Web3/Systems Engineering, and Research Collaborations.
+
+
+
+
+
+
 <h1 align="center">Hi there 👋, I'm Bassey Samuel</h1>
 
 <img align="right" alt="Genzy Bassey" width="300px" height="200px" src="https://github.com/Genzybas/Stage1_HNGx_Internship/blob/master/images/Genzy-Bassey.png">
