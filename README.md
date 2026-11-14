@@ -41,7 +41,7 @@ I continuously strengthen my engineering capabilities through practical implemen
 
 ---
 
-## Selected Projects
+## Featured Research & Flagship Builds Projects 
 
 ### [SC-ARS – Smart Contract-Based Automated Response System](https://github.com/Genzybas/SC-ARS_smart_contract_based_automated_response_system) —  *Published Research & Prototype*  
 
@@ -49,7 +49,7 @@ An intelligent security research project exploring the integration of machine le
 
 The ML-driven autonomous security framework combining Random Forest anomaly detection with blockchain smart contracts to execute tamper-proof, real-time intrusion mitigation in IoT environments.
 
-### CloudSwap
+### [CloudSwap](https://github.com/Genzybas/cloudswap-dist)
 
 A cloud-related project developed during a hackathon, where the project received first prize. The project attracted more than 50 testers.
 
